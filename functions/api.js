@@ -18,7 +18,7 @@ let kipasData = {
 let storedUid = "";
 
 app.get("/.netlify/functions/api/getTest", (req, res) => {
-    req.send("hello ma getTest")
+    res.send("hello ma getTest")
 })
 
 app.post('/.netlify/functions/api/postData', (req, res) => {
