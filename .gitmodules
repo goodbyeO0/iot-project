@@ -1,3 +1,3 @@
 [submodule "iot-frontend"]
     path = iot-frontend
-    url = https://github.com/goodbyeO0/iot-project.git
+    url = https://github.com/goodbyeO0/iot-frontend.git
